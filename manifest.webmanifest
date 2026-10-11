@@ -1,0 +1,25 @@
+{
+  "name": "Avatar Mágico",
+  "short_name": "Avatar",
+  "description": "Crea un avatar mágico en tu dispositivo. La foto no se sube a internet.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffeef8",
+  "theme_color": "#f8b4d9",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
